@@ -44,16 +44,16 @@ global.openAiAPI = "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";
 global.location = "sri jayawardanapura, srilanka";
 global.reactmoji = "❤️";
 global.themeemoji = "💖";
-global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' };
+global.vidmenu = { url: 'https://github.com/CRAWL001/ANIME-HUB/we.mp4' };
 global.websitex = "https://crawl001.github.io/CRAWL-WEBSITE/website.html";
 global.lolhuman = "KaysaS";
 
 
 //
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
-global.Thumb = fs.readFileSync("./Assets/pic9.jpg");
-global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
-global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
+global.BotLogo = fs.readFileSync("https://telegra.ph/file/4cf337052c09eec06f3e8.jpg");
+global.Thumb = fs.readFileSync("https://telegra.ph/file/4cf337052c09eec06f3e8.jpg");
+global.Thumb1 = fs.readFileSync("https://telegra.ph/file/4cf337052c09eec06f3e8.jpg");
+global.ErrorPic = fs.readFileSync("https://telegra.ph/file/4cf337052c09eec06f3e8.jpg");
 
 
 //
